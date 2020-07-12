@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Metadata Remover</string>
+    <string name="choose_files">Choose Files</string>
 </resources>
